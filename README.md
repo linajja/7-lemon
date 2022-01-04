@@ -9,7 +9,7 @@ _Pseudo element_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/linajja/7-lemon
+Site published at: https://linajja.github.io/7-lemon/
 
 Design: [Lemon](https://discord.com/channels/571393319201144843/912397085523988480)
 
